@@ -21,7 +21,7 @@
 
 
 >✔ I'm currently working as a freelancer.<br>
-✔ I'm learning all about Power BI.<br>
+✔ I'm learning all about Power BI and Data Science and Analytics.<br>
 ✔ All my projects are available at https://github.com/danielsalgador<br>
 ✔ How to reach me: <br>
 &nbsp; &nbsp; * [Facebook - @daniells283](https://www.facebook.com/daniells283) <br>
