@@ -23,10 +23,11 @@
 >✔ I'm currently working as a freelancer.<br>
 ✔ I'm learning all about Power BI.<br>
 ✔ All my projects are available at https://github.com/danielsalgador<br>
+✔ ✔ How to reach me: <br>
+&nbsp; &nbsp; * [Facebook - @daniells283](https://www.facebook.com/daniells283) <br>
+&nbsp; &nbsp; * [Email - danielsalgador@gmail.com](mailto:danielsalgador@gmail.com) <br>
+&nbsp; &nbsp; * [LinkedIn - @danielsalgado](https://www.linkedin.com/in/daniel-salgado-ba87984a/) <br>
 
-✔  How to reach me: <br> &nbsp; &nbsp; * [Facebook-@daniells283]([https://www.facebook.com/profile.php?id=100010194910703](https://www.facebook.com/daniells283)) <br>
-                         &nbsp; &nbsp; * [Email-@danielsalgador](danielsalgador@gmail.com) <br>
-                         &nbsp; &nbsp; * [linkedIn-@danielsalgado]([https://www.linkedin.com/in/mahmoud-miehob-937064187](https://www.linkedin.com/in/daniel-salgado-ba87984a/)) <br>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
