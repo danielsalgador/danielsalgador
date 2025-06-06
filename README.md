@@ -5,7 +5,7 @@
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer" > 
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Systems+Engineer" > 
 </p>
 
 
@@ -57,3 +57,24 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📊 My GitHub Stats
+
+<p align="left" style="margin-right:0px;padding-right:0px">
+  <img src="https://github-readme-stats.vercel.app/api?username=danielsalgador&theme=algolia" />
+  <img alt="streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=danielsalgador&theme=algolia" />
+</p>
+
+## 🌐 Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-salgado-ba87984a/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
+  <a href="https://www.facebook.com/daniells283"><img src="https://img.shields.io/badge/facebook-1b74e4.svg?style=for-the-badge&logo=facebook&logoColor=ffffff"/></a>
+  <a href="mailto:danielsalgador@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+  <a href="https://www.youtube.com/@DanielSalgado2893"><img src="https://img.shields.io/badge/youtube-e00101.svg?style=for-the-badge&logo=youtube&logoColor=ffffff"/></a>
+</p>
+
+## ❤ Views and Followers
+
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=danielsalgador&label=Profile%20views&color=blueviolet&style=plastic" width="160px" alt="views" />
+</p>
