@@ -23,7 +23,7 @@
 >✔ I'm currently working as a freelancer.<br>
 ✔ I'm learning all about Power BI.<br>
 ✔ All my projects are available at https://github.com/danielsalgador<br>
-✔ ✔ How to reach me: <br>
+✔ How to reach me: <br>
 &nbsp; &nbsp; * [Facebook - @daniells283](https://www.facebook.com/daniells283) <br>
 &nbsp; &nbsp; * [Email - danielsalgador@gmail.com](mailto:danielsalgador@gmail.com) <br>
 &nbsp; &nbsp; * [LinkedIn - @danielsalgado](https://www.linkedin.com/in/daniel-salgado-ba87984a/) <br>
